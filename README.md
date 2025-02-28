@@ -1,2 +1,3 @@
-# ComfyUI-PhotoDoodle
-Make PhotoDoodle avialbe in ComfyUI
+# ComfyUI PhotoDoodle
+
+Make [PhotoDoodle](https://github.com/showlab/PhotoDoodle) avialbe in ComfyUI.
