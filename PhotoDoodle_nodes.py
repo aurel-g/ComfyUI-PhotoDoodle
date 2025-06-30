@@ -1,7 +1,7 @@
 import torch
 from PIL import Image
 import numpy as np
-from PhotoDoodle.pipeline_pe_clone import FluxPipeline
+from .PhotoDoodle.pipeline_pe_clone import FluxPipeline
 
 class PhotoDoodle:
     @classmethod
